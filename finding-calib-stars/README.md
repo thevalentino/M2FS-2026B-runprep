@@ -32,3 +32,7 @@ I will start by making a new selection of stars requiring them to have small pro
         - For Simbad obstime is J2000.0
         - For XiaoXu obstime is 2026-10-07
 
+- I will try now to reproduce the "drift" that Mario Mateo observes when he propagates the positions of the calibration stars.
+    - I tried several posibilities to explain the drift but nothing worked.
+
+- I am preparing the .field files just as before with the only difference being that I will restrict pm to be less than 10 mas.
