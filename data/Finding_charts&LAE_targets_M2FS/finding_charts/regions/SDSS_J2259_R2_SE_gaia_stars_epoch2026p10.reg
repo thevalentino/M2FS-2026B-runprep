@@ -1,0 +1,23 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(344.94036323,13.50521816,8.0") # text={R2_SE_S1_G13.01}
+circle(345.25619887,13.40389869,8.0") # text={R2_SE_S2_G13.11}
+circle(345.09685601,13.53013786,8.0") # text={R2_SE_S3_G13.11}
+circle(344.83400210,13.67729175,8.0") # text={R2_SE_S4_G13.20}
+circle(345.30690519,13.65343033,8.0") # text={R2_SE_S5_G13.27}
+circle(344.99975229,13.82048008,8.0") # text={R2_SE_S6_G13.30}
+circle(345.25817468,13.77786376,8.0") # text={R2_SE_S7_G13.36}
+circle(345.32312579,13.73575072,8.0") # text={R2_SE_S8_G13.44}
+circle(345.16861113,13.66873331,8.0") # text={R2_SE_S9_G13.48}
+circle(344.91173124,13.49453751,8.0") # text={R2_SE_S10_G13.49}
+circle(345.28515940,13.58061226,8.0") # text={R2_SE_S11_G13.50}
+circle(345.16376549,13.42345931,8.0") # text={R2_SE_S12_G13.54}
+circle(344.92612739,13.70324391,8.0") # text={R2_SE_S13_G13.56}
+circle(345.03855857,13.78421178,8.0") # text={R2_SE_S14_G13.56}
+circle(345.20275342,13.44772014,8.0") # text={R2_SE_S15_G13.59}
+circle(345.18280555,13.51307822,8.0") # text={R2_SE_S16_G13.64}
+circle(345.14643144,13.73589739,8.0") # text={R2_SE_S17_G13.69}
+circle(345.10194917,13.85117012,8.0") # text={R2_SE_S18_G13.74}
+circle(345.25981426,13.52913127,8.0") # text={R2_SE_S19_G13.75}
+circle(345.19945373,13.56087287,8.0") # text={R2_SE_S20_G13.77}

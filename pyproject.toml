@@ -1,0 +1,12 @@
+[project]
+name = "m2fs2026b"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "astropy>=8.0.1",
+    "astroquery>=0.4.11",
+    "ipython>=9.17.1",
+    "matplotlib>=3.11.2",
+]

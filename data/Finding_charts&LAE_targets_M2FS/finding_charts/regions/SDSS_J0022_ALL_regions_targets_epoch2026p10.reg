@@ -1,0 +1,43 @@
+# Region file format: DS9 version 4.1
+global color=red dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(5.45205205,-0.73099049,6.0") # text={R1_SW_T1}
+circle(5.34315109,-0.91159621,6.0") # text={R1_SW_T2}
+circle(5.27141410,-1.02855147,6.0") # text={R1_SW_T3}
+circle(5.35386533,-0.77202031,6.0") # text={R1_SW_T4}
+circle(5.45834957,-1.04917329,6.0") # text={R1_SW_T5}
+circle(5.41390933,-1.10232994,6.0") # text={R1_SW_T6}
+circle(5.39978408,-0.88645824,6.0") # text={R1_SW_T7}
+circle(5.35016682,-1.17586039,6.0") # text={R1_SW_T8}
+circle(5.11880308,-0.86056583,6.0") # text={R1_SW_T9}
+circle(5.23882139,-0.88622850,6.0") # text={R1_SW_T10}
+circle(5.73373119,-0.90846992,6.0") # text={R2_SE_T1}
+circle(5.96130921,-0.86446580,6.0") # text={R2_SE_T2}
+circle(6.00307107,-0.83210433,6.0") # text={R2_SE_T3}
+circle(5.74271281,-1.20152279,6.0") # text={R2_SE_T4}
+circle(5.61939065,-0.92047603,6.0") # text={R2_SE_T5}
+circle(5.87801486,-0.89929136,6.0") # text={R2_SE_T6}
+circle(5.58335488,-0.89555894,6.0") # text={R2_SE_T7}
+circle(5.61207016,-0.81655565,6.0") # text={R2_SE_T8}
+circle(5.82403941,-1.09837980,6.0") # text={R2_SE_T9}
+circle(5.88621651,-0.75268084,6.0") # text={R2_SE_T10}
+circle(5.45205205,-0.73099049,6.0") # text={R3_NW_T1}
+circle(5.51133005,-0.40187705,6.0") # text={R3_NW_T2}
+circle(5.35586081,-0.56321123,6.0") # text={R3_NW_T3}
+circle(5.35386533,-0.77202031,6.0") # text={R3_NW_T4}
+circle(5.34971583,-0.38275345,6.0") # text={R3_NW_T5}
+circle(5.22009639,-0.66118285,6.0") # text={R3_NW_T6}
+circle(5.24371387,-0.65851795,6.0") # text={R3_NW_T7}
+circle(5.15651846,-0.64062547,6.0") # text={R3_NW_T8}
+circle(5.41185279,-0.40902579,6.0") # text={R3_NW_T9}
+circle(5.36450467,-0.39362424,6.0") # text={R3_NW_T10}
+circle(5.62095330,-0.54591083,6.0") # text={R4_NE_T1}
+circle(5.78773856,-0.35157121,6.0") # text={R4_NE_T2}
+circle(5.66718846,-0.53776081,6.0") # text={R4_NE_T3}
+circle(5.81603176,-0.33744488,6.0") # text={R4_NE_T4}
+circle(5.67121607,-0.66596395,6.0") # text={R4_NE_T5}
+circle(5.68933888,-0.68492524,6.0") # text={R4_NE_T6}
+circle(5.72829784,-0.35768261,6.0") # text={R4_NE_T7}
+circle(6.05955788,-0.67040627,6.0") # text={R4_NE_T8}
+circle(5.95155390,-0.59071178,6.0") # text={R4_NE_T9}
+circle(5.95230593,-0.66163797,6.0") # text={R4_NE_T10}

@@ -1,0 +1,23 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(25.18397154,2.97737700,8.0") # text={CFG07_S1_G13.08}
+circle(25.04546489,3.14542428,8.0") # text={CFG07_S2_G13.18}
+circle(24.95003780,3.16466742,8.0") # text={CFG07_S3_G13.22}
+circle(25.18377113,3.04987559,8.0") # text={CFG07_S4_G13.22}
+circle(25.25346787,2.92799829,8.0") # text={CFG07_S5_G13.30}
+circle(25.13374025,2.82190739,8.0") # text={CFG07_S6_G13.43}
+circle(25.09389758,2.95220395,8.0") # text={CFG07_S7_G13.44}
+circle(25.04349869,2.81244568,8.0") # text={CFG07_S8_G13.47}
+circle(24.86823052,3.11112582,8.0") # text={CFG07_S9_G13.51}
+circle(24.93986644,3.06831605,8.0") # text={CFG07_S10_G13.61}
+circle(25.31632762,2.86050915,8.0") # text={CFG07_S11_G13.63}
+circle(24.99252984,3.07304456,8.0") # text={CFG07_S12_G13.64}
+circle(25.05880190,3.10083005,8.0") # text={CFG07_S13_G13.65}
+circle(25.10994099,3.14034717,8.0") # text={CFG07_S14_G13.75}
+circle(25.18960762,2.95396202,8.0") # text={CFG07_S15_G13.77}
+circle(25.28725684,3.03100666,8.0") # text={CFG07_S16_G13.85}
+circle(25.17634549,3.06453275,8.0") # text={CFG07_S17_G13.87}
+circle(25.12277665,2.66715809,8.0") # text={CFG07_S18_G13.93}
+circle(25.08732524,3.04156064,8.0") # text={CFG07_S19_G13.93}
+circle(25.04018841,3.04706808,8.0") # text={CFG07_S20_G13.96}

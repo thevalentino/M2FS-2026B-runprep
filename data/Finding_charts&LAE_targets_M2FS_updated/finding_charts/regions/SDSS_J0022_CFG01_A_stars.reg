@@ -1,0 +1,7 @@
+# Region file format: DS9 version 4.1
+global color=orange dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(5.08412506,-0.79749542,8.0") # text={CFG01_A1}
+circle(5.45925856,-0.61334854,8.0") # text={CFG01_A2}
+circle(5.42220273,-0.59845834,8.0") # text={CFG01_A3}
+circle(5.31740330,-0.92124724,8.0") # text={CFG01_A4}

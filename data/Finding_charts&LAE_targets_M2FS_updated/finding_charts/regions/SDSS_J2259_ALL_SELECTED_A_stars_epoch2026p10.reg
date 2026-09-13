@@ -1,0 +1,15 @@
+# Region file format: DS9 version 4.1
+global color=orange dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(344.62193050,13.71332535,8.0") # text={CFG04_A1}
+circle(344.47310532,13.74124245,8.0") # text={CFG04_A2}
+circle(344.75667863,13.77977070,8.0") # text={CFG04_A3}
+circle(344.63340741,13.72769363,8.0") # text={CFG04_A4}
+circle(344.86413538,13.70663048,8.0") # text={CFG05_A1}
+circle(345.06726331,13.62839423,8.0") # text={CFG05_A2}
+circle(345.27841636,13.85991066,8.0") # text={CFG05_A3}
+circle(345.27626698,13.80262248,8.0") # text={CFG05_A4}
+circle(344.96542365,14.41359813,8.0") # text={CFG06_A1}
+circle(344.70173925,14.31687864,8.0") # text={CFG06_A2}
+circle(345.12364623,14.31185105,8.0") # text={CFG06_A3}
+circle(345.12492176,14.31739280,8.0") # text={CFG06_A4}

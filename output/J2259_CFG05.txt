@@ -1,0 +1,56 @@
+J0022_CFG05
+
+B Side Spectrograph
+
+B.A. Spectroscopic mode (choose one)
+
+2. LoRes
+
+B.B. If HiRes, blocking filter required (choose one):
+
+B.C. If LoRes, specify center of desired wavelength range.
+
+B600 grating centered at 5000A.
+
+B.D. Detector parameters: Binning, number of amps, readout speed.
+
+2x2 binning (i.e. 2 pixel binning in both in spectral and spatial(fiber) directions), slow readout, 30 min integrations.
+
+B.E. Desired slit width (see table above).
+
+180 microns (i.e. fully open)
+
+R Side Spectrograph
+
+R.A. Spectroscopic mode (choose one)
+2. LoRes
+
+R.B. If HiRes, blocking filter required (choose one):
+
+R.C. If LoRes, specify center of desired wavelength range. 
+
+B600 grating centered at 5000A.
+
+R.D. Detector parameters: Binning, number of amps, readout speed.
+
+2x2 binning (i.e. 2 pixel binning in both in spectral and spatial(fiber) directions), slow readout, 30 min integrations. 
+
+R.E. Desired slit width (see table above).
+
+180 microns (i.e. fully open)
+
+D. Additional comments. Include required S/N requirements for typical targets in your field.
+
+We have 2 nights assigned for this project. 
+Overall Goal: 2 hr integration in each of 6 fields (2 per each of 3 regions)
+The targets in this setup: Lya emitters at z~3.12, selected trough narrow band imaging. We do not expect continuum but we do expect to see Lya at the center of the spectrum.
+
+We want two sky fibers per 16 fiber block (a total of 32 sky fibers), ideally at the top and bottom of each block.
+
+We have also added 16 V>~17.5 stars to use as calibrations. In the catalog files they have priority=7 and have their Vmag indicated in the last column. We would like these near the center of each fiber block if possible to avoid contaminating the sky spectra.
+
+In case weather does not cooperate, we would prefer to secure at least 2 hours in one mask per region.
+
+This field is best observed around the middle of the night.
+
+

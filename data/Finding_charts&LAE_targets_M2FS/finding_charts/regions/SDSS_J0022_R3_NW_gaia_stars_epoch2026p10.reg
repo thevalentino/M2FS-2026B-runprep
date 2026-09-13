@@ -1,0 +1,23 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(5.38484064,-0.52715147,8.0") # text={R3_NW_S1_G13.15}
+circle(5.34907450,-0.23554219,8.0") # text={R3_NW_S2_G13.22}
+circle(5.13090474,-0.56326514,8.0") # text={R3_NW_S3_G13.25}
+circle(5.44712342,-0.42970980,8.0") # text={R3_NW_S4_G13.31}
+circle(5.41726590,-0.20704796,8.0") # text={R3_NW_S5_G13.32}
+circle(5.44163444,-0.64971545,8.0") # text={R3_NW_S6_G13.44}
+circle(5.45925856,-0.61334854,8.0") # text={R3_NW_S7_G13.60}
+circle(5.12124099,-0.52625370,8.0") # text={R3_NW_S8_G13.61}
+circle(5.10394061,-0.38945244,8.0") # text={R3_NW_S9_G13.67}
+circle(5.42963629,-0.66396297,8.0") # text={R3_NW_S10_G13.80}
+circle(5.33244019,-0.42758749,8.0") # text={R3_NW_S11_G13.83}
+circle(5.39536520,-0.49354885,8.0") # text={R3_NW_S12_G13.87}
+circle(5.16549836,-0.47229466,8.0") # text={R3_NW_S13_G13.91}
+circle(5.20858546,-0.68925330,8.0") # text={R3_NW_S14_G13.98}
+circle(5.57269140,-0.53929320,8.0") # text={R3_NW_S15_G14.12}
+circle(5.50295289,-0.32799114,8.0") # text={R3_NW_S16_G14.12}
+circle(5.04984585,-0.49039580,8.0") # text={R3_NW_S17_G14.15}
+circle(5.16722981,-0.61631306,8.0") # text={R3_NW_S18_G14.30}
+circle(5.41602349,-0.24041593,8.0") # text={R3_NW_S19_G14.46}
+circle(5.42220273,-0.59845834,8.0") # text={R3_NW_S20_G14.65}

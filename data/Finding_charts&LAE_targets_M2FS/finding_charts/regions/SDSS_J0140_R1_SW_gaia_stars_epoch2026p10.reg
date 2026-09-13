@@ -1,0 +1,23 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(24.64805907,2.48237931,8.0") # text={R1_SW_S1_G13.19}
+circle(25.01496116,2.30651080,8.0") # text={R1_SW_S2_G13.52}
+circle(24.81588897,2.69913848,8.0") # text={R1_SW_S3_G13.56}
+circle(24.97630300,2.52715090,8.0") # text={R1_SW_S4_G13.63}
+circle(24.88866530,2.37023511,8.0") # text={R1_SW_S5_G13.82}
+circle(24.88950342,2.58244906,8.0") # text={R1_SW_S6_G13.87}
+circle(25.16942272,2.49425896,8.0") # text={R1_SW_S7_G13.92}
+circle(25.12277665,2.66715809,8.0") # text={R1_SW_S8_G13.93}
+circle(25.11617626,2.55125643,8.0") # text={R1_SW_S9_G14.07}
+circle(24.94597356,2.64000404,8.0") # text={R1_SW_S10_G14.12}
+circle(25.01704041,2.44071707,8.0") # text={R1_SW_S11_G14.25}
+circle(24.71465854,2.52225010,8.0") # text={R1_SW_S12_G14.30}
+circle(24.66851989,2.53537942,8.0") # text={R1_SW_S13_G14.38}
+circle(24.96789221,2.69954881,8.0") # text={R1_SW_S14_G14.39}
+circle(24.71199960,2.70024976,8.0") # text={R1_SW_S15_G14.41}
+circle(24.91448436,2.26832488,8.0") # text={R1_SW_S16_G14.54}
+circle(24.75413479,2.73754151,8.0") # text={R1_SW_S17_G14.54}
+circle(24.74564651,2.53496203,8.0") # text={R1_SW_S18_G14.60}
+circle(24.83383757,2.50722547,8.0") # text={R1_SW_S19_G14.61}
+circle(24.85659882,2.74859545,8.0") # text={R1_SW_S20_G14.62}
