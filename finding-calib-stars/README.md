@@ -36,3 +36,5 @@ I will start by making a new selection of stars requiring them to have small pro
     - I tried several posibilities to explain the drift but nothing worked.
 
 - I am preparing the .field files just as before with the only difference being that I will restrict pm to be less than 10 mas.
+This is the filter I need to apply in DS9:
+`$Gmag>16.5 && $Gmag < 17 && $pmRA<10 && $pmRA>-10 && $pmDE<10 && $pmDE>-10`
