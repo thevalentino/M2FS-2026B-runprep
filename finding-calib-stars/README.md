@@ -38,3 +38,10 @@ I will start by making a new selection of stars requiring them to have small pro
 - I am preparing the .field files just as before with the only difference being that I will restrict pm to be less than 10 mas.
 This is the filter I need to apply in DS9:
 `$Gmag>16.5 && $Gmag < 17 && $pmRA<10 && $pmRA>-10 && $pmDE<10 && $pmDE>-10`
+
+
+## Solution
+
+At the end, I did my own selection again and made sure to report everything in FK5 epoch 2000.0 and this seems to have solved the issue. The transformation from J20000.0 to J2026.10 was being interpreted differently between Mario and I.
+
+While doing this selection, which is in v5, I created multiple tsv files for the guide stars and the acquisition stars, on top of the calibration stars. There is information inthe script `format_stars_for_catalog.py` regarding what constraints were used to select these stars.
